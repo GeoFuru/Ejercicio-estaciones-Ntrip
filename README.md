@@ -1,5 +1,7 @@
 Este proyecto es un visor web para estaciones de referencia GNSS en Chile. Nació como un ejercicio para la asignatura de Ajuste de Observaciones, donde el objetivo original era simplemente procesar una tabla de datos NTRIP y lograr mostrarla en un mapa usando código.
 
+link directo: https://geofuru.github.io/Ejercicio-estaciones-Ntrip/mapa_est_Ntrip
+
 Funcionalidades principales:
 
 -Visualización y filtrado: Las estaciones se agrupan automáticamente y se pueden buscar o filtrar según su red.
